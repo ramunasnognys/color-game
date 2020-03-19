@@ -1,4 +1,4 @@
-# CHALLANGE 2: RGB-Color-Game
+# CHALLANGE 2: RGB-Cfolor-Game
 This is another project from Udemy course Web Developer Bootcamp created by Colt Steele.
 #
 
