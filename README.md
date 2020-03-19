@@ -1,5 +1,5 @@
 # CHALLANGE 2: RGB-COLOR-GAME
-
+This is another project from Udemy course Web Developer Bootcamp created by Colt Steele.
 #
 
 - [Method 1:](#Method-1) (using Array.prototype method)
