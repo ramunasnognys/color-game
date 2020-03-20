@@ -6,7 +6,7 @@
 // 7  Add easy and hard buttons
 // 8  Make 3 and 6 colors selectiob
 
-var numberOfSquares = 6;
+var numberOfSquares;
 var colors = generateRandomColors(6);
 var squares = document.querySelectorAll(".square");
 var pickedColor = pickColor();
@@ -56,7 +56,7 @@ resetButton.addEventListener("click", function () {
   for (let index = 0; index < squares.length; index++) {
     squares[index].style.background = colors[index];
   }
-  h1.style.backgroundColor = "#232323";
+  h1.style.backgroundColor = "steelblue";
 
 })
 
