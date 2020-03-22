@@ -2,7 +2,7 @@
 This is another project from Udemy course Web Developer Bootcamp created by Colt Steele.
 #
 
-![image](https://github.com/ramunasnognys/color-game/blob/refactored/splashscreen.png =100x200)
+![very good|512x397](//assets-meta-cdck-prod-meta.s3.dualstack.us-west-1.amazonaws.com/original/3X/0/3/03741c9f3eafd7fc8ccd791a6971a2c0d52783e4.jpg)
 
 <!-- - [Method 1:](#Method-1) (using Array.prototype method) -->
 <!-- - [Method 2:](#Method-2) (decreasing) -->
