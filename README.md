@@ -2,11 +2,7 @@
 This is another project from Udemy course Web Developer Bootcamp created by Colt Steele.
 #
 
-<p align="center">
-  <a href="https://github.com/dvlden/differs">
-    <img src=".github/logo.svg" width="300" alt="Differs" />
-  </a>
-</p>
+![image](https://github.com/ramunasnognys/color-game/blob/refactored/splashscreen.png =100x200)
 
 <!-- - [Method 1:](#Method-1) (using Array.prototype method) -->
 <!-- - [Method 2:](#Method-2) (decreasing) -->
